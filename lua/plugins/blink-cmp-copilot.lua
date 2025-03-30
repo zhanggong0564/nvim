@@ -1,3 +1,6 @@
 return {
-  "giuxtaposition/blink-cmp-copilot",
+
+  {
+    "giuxtaposition/blink-cmp-copilot",
+  },
 }
